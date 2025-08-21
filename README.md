@@ -1,1 +1,1 @@
-"# Bootstrap-ve-Responsive-tabanl-restorant-men-s-" 
+"# Bootstrap-ve-Responsive-tabanlı-restorant-menusu-" 
